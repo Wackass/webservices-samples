@@ -1,0 +1,5 @@
+{
+  "server": "wsapi.example.com:8080",
+  "username": "rw",
+  "password": "mypassword"
+}
