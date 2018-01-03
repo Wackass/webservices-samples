@@ -5,9 +5,9 @@ Usage:
   login <username> <password> <server>
   login -h
 Arguments:
-  username    The unique identifier of the storage-system. Default: '1'
-  password   The unique name of the volume to be defined
-  server   The name of the storage-pool to define the volume on. Default: Pick a random pool
+  username  ID to provide for authentication
+  password  Password corresponding to specified userid.
+  server    API endpoint.
 Options:
   -h --help     Show this screen.
   --version     Show version.
